@@ -1,1 +1,1 @@
-web: gunicorn inventory_tracker.wsgi --log-file -
+web: gunicorn asset_tracker.wsgi --log-file -
