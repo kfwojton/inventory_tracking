@@ -25,7 +25,8 @@ SECRET_KEY = 'w53u9dudu7s_mc#_4)=7=f+da4yeug5^ms-jd4%bqemk%m$*+4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['investory_trackerk.herokuapp.com',
+                 'localhost',']
 
 
 # Application definition
