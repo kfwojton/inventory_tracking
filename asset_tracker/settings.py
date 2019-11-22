@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'w53u9dudu7s_mc#_4)=7=f+da4yeug5^ms-jd4%bqemk%m$*+4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['inventorytrackerk.herokuapp.com',
                  'localhost']
